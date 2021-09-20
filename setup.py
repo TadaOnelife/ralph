@@ -21,7 +21,7 @@ def get_version():
 
 
 setup(
-    name='tadaonelife',
+    name='ralph',
     version=get_version(),
     author='Allegro.pl Sp. z o.o. and Contributors',
     author_email='opensource@allegro.pl',
@@ -58,7 +58,7 @@ setup(
         'Intended Audience :: System Administrators',
         'Intended Audience :: Information Technology',
         'License :: OSI Approved :: Apache Software License',
-        'Natural Language :: Thai',
+        'Natural Language :: English',
         'Operating System :: POSIX',
         'Operating System :: MacOS :: MacOS X',
         'Operating System :: Microsoft :: Windows :: Windows NT/2000',
